@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: MyOcticat
-FullName: My Octicat
-FamilyName: MyOcticat
+FontName: MyOcticon
+FullName: My Octicon
+FamilyName: MyOcticon
 Weight: Medium
 Copyright: Created by max630, with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2014-1-3: Created." 
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1388783900
-ModificationTime: 1388790955
+ModificationTime: 1388791682
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -39,7 +39,7 @@ DEI: 91125
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: 10
+DisplaySize: 20
 AntiAlias: 0
 FitToEm: 1
 WinInfo: 61383 37 12
@@ -50,7 +50,7 @@ Grid
 99 1300 m 0
  99 -700 l 0
 EndSplineSet
-BeginChars: 65536 5
+BeginChars: 65536 7
 
 StartChar: uniF06B
 Encoding: 61547 61547 0
@@ -90,8 +90,24 @@ Width: 1000
 VWidth: 0
 LayerCount: 2
 EndChar
+
+StartChar: uniF031
+Encoding: 61489 61489 5
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uniF032
+Encoding: 61490 61490 6
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 10 5 8 2 1 
+BitmapFont: 10 7 8 2 1 
 BDFChar: 0 61547 10 0 8 -2 6
 s+#WMLk(;3^4;#iLk(#+s*t(L
 BDFChar: 1 61450 10 1 8 -1 6
@@ -102,17 +118,25 @@ BDFChar: 3 61443 10 1 9 -1 7
 !W_3[O+;f^JcL<$JH16$rr<$!
 BDFChar: 4 61446 10 0 0 0 0
 z
+BDFChar: 5 61489 10 1 8 -1 6
+6`4N5(aMG!
+BDFChar: 6 61490 10 1 9 -2 6
+rr@QLJcL?%^OUk8JcL<$rr<$!
 EndBitmapFont
-BitmapFont: 20 5 16 4 1 
+BitmapFont: 20 7 16 4 1 
 BDFChar: 0 61547 20 0 17 -4 13
 s8Tn7s1lDM^q]rc^qdb$^qdb$^qdb$chtT)r4p+`^qdb$^qdb$^qd_c^q]rcs8Tn7s1eU7
 BDFChar: 1 61450 20 2 17 -2 13
 J-!FfTEUD`^\tqMJ,t0$J,t0$J,t0$J-!Ff?j8jn
 BDFChar: 2 61484 20 2 17 -2 13
-5Q!bD^]V@Sch#KSbVRI!_"5A5^]V@S^r*t*5Q!bD
+#N-F9+9Xq26c+L"KHYjhJ3e^:J:Tre5_:*](`3M9
 BDFChar: 3 61443 20 2 19 -2 15
 !"8i-$ip26!;m6*_#M3cs1lDY!5K!C^^L4Y$in'C!5JR7^]OSP!s$+=!5J[:s8N*!rr<$!
 BDFChar: 4 61446 20 0 1 0 1
 z
+BDFChar: 5 61489 20 2 17 -1 13
++92rTO9b7b#TNt,!cS0J!.Y)8![%UW#RCtE+9DNC
+BDFChar: 6 61490 20 1 9 -2 6
+rr<$!z!.Y%Lz!!%TNz!!!"Mzz^OQ:az!.b+Mz!!%TNz!!!"Lzzrr<$!zz
 EndBitmapFont
 EndSplineFont
