@@ -1,0 +1,55 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Medium
+Copyright: Created by Max,,, with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2014-1-3: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 980 1133366716 11824741]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1388783900
+ModificationTime: 1388786418
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: 10
+AntiAlias: 0
+FitToEm: 1
+WinInfo: 61494 37 12
+Grid
+99 1300 m 0
+ 99 -700 l 0
+EndSplineSet
+BeginChars: 65536 0
+EndChars
+BitmapFont: 10 1 8 2 1 
+BDFChar: -1 61547 10 2 8 0 6
+rdp<EP(NZ5
+EndBitmapFont
+EndSplineFont
